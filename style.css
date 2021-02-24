@@ -1,0 +1,14 @@
+body {
+  background: url("./img/space.jpg");
+  color: white;
+}
+
+.entity {
+  position: fixed;
+}
+
+.bullet {
+  background-color: red;
+  width: 10px;
+  height: 4px;
+}
